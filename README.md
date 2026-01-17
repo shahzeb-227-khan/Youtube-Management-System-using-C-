@@ -84,7 +84,7 @@ Travel to Islamabad
 
 ## 🛠 How to Compile & Run
 
-Use **g++ compiler**:
+Use **g++ compiler **:
 
 ```bash
 g++ youtube_management.cpp -o youtube
@@ -110,7 +110,7 @@ This project is ideal for:
 * File handling for persistent data
 * Virtual functions & polymorphism
 * Menu-driven user interface
-* Exception handling
+* Exception handlinG
 
 ---
 
